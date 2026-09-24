@@ -16,11 +16,11 @@
 
 ---
 
-## 🌱 About Me
+## 👩‍💻 About Me
 
 I'm a **B.Tech Computer Science student specializing in Data Analytics**, passionate about understanding data, finding meaningful patterns, and building practical solutions from real-world problems.
 
-My core interests lie in **Data Analytics, Data Visualization, Python, SQL, and Business Intelligence**, while I also explore **Machine Learning, Image Analysis, Computer Vision, and IoT** through academic, research, and personal projects.
+My primary focus is **Data Analytics, Data Visualization, Python, SQL, and Business Intelligence**, while I also explore **Machine Learning, Image Analysis, Computer Vision, and IoT** through academic, research, and personal projects.
 
 I enjoy working across the complete data journey:
 
@@ -28,13 +28,14 @@ I enjoy working across the complete data journey:
 
 * 🎓 B.Tech CSE — **Data Analytics**
 * 📊 Focused on **Data Analytics & Business Intelligence**
-* 🐍 Strong interest in **Python & SQL**
-* 📈 Building interactive **Power BI dashboards**
+* 🐍 Working with **Python, Pandas & NumPy**
+* 🗄️ Working with **SQL & Databases**
+* 📈 Building **Power BI dashboards**
 * 🖼️ Currently exploring **Image Analysis & Computer Vision**
 * 🤖 Learning and applying **Machine Learning**
 * 🔬 Interested in **research-oriented projects**
-* 🌱 Exploring **IoT & automation**
-* 📚 Outside tech, I enjoy Bengali storybooks and literature
+* 🌱 Exploring **IoT & Automation**
+* 📚 Love Bengali storybooks and literature
 
 ---
 
@@ -44,7 +45,7 @@ I enjoy working across the complete data journey:
 
 I'm currently working on **image analysis and computer vision projects**, exploring image preprocessing, analysis, feature extraction, and machine-learning/deep-learning approaches.
 
-My goal is to move beyond individual models and understand the complete workflow:
+My goal is to understand the complete workflow:
 
 **Dataset → Preprocessing → Analysis → Model → Evaluation → Application**
 
@@ -116,11 +117,7 @@ My goal is to move beyond individual models and understand the complete workflow
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 ### 📊 Startup Data Visualization Dashboard
-
-</div>
 
 An interactive **Power BI dashboard** focused on transforming startup data into clear KPIs, trends, and business insights.
 
@@ -135,15 +132,11 @@ An interactive **Power BI dashboard** focused on transforming startup data into 
 
 ---
 
-<div align="center">
-
 ### 🫁 Pneumonia Detection from Chest X-rays
-
-</div>
 
 A deep-learning project focused on detecting pneumonia from chest X-ray images using multiple neural-network architectures.
 
-**Models explored**
+**Models Explored**
 
 * Custom CNN
 * ResNet50
@@ -157,11 +150,7 @@ A deep-learning project focused on detecting pneumonia from chest X-ray images u
 
 ---
 
-<div align="center">
-
 ### 🌱 Smart Irrigation & Automated Hydroponics
-
-</div>
 
 IoT-based projects focused on monitoring environmental conditions and automating agricultural processes using sensors and microcontrollers.
 
@@ -173,18 +162,6 @@ IoT-based projects focused on monitoring environmental conditions and automating
 * Smart agriculture
 
 `Arduino` `IoT` `Sensors` `Automation` `Embedded Systems`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=biswasdisha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswasdisha&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
-
-</div>
 
 ---
 
@@ -205,16 +182,6 @@ IoT-based projects focused on monitoring environmental conditions and automating
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=biswasdisha&hide_border=true" alt="Contribution Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswasdisha&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
@@ -253,5 +220,6 @@ IoT-based projects focused on monitoring environmental conditions and automating
 **Thanks for visiting my profile! ⭐**
 
 </div>
+
 
 
