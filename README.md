@@ -1,34 +1,245 @@
-<h1 align="center">Hi 👋, I'm Disha Biswas</h1>
-<h3 align="center">BTech CSE (Data Analytics) | Data Analytics Enthusiast | Python & SQL | Power BI | Machine Learning | IoTper from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswasdisha&label=Profile%20views&color=0e75b6&style=flat" alt="biswasdisha" /> </p>
+# Hi 👋, I'm Disha Biswas
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswasdisha" alt="biswasdisha" /></a> </p>
+### B.Tech CSE (Data Analytics) | Data Analyst | Python • SQL • Power BI
 
-- 🔭 I’m currently working on **Image Analysis and Computer Vision projects.**
-
-- 🌱 I’m currently learning **Advanced Image Analysis, Computer Vision, Data Analytics, SQL, Machine Learning, and real-time data processing.**
-
-- 👯 I’m looking to collaborate on **Image Analysis, Data Analytics, Machine Learning, Computer Vision, and IoT projects.**
-
-- 🤝 I’m looking for help with **Image Analysis, Computer Vision, Data Analytics, SQL, and building real-world data-driven applications, especially projects involving user behavior, content, and streaming data.**
-
-- 💬 Ask me about **Data Analytics, Image Analysis, Power BI dashboards, SQL, Python, Machine Learning, IoT, and the projects I’m currently building.**
-
-- 📫 How to reach me **dishab749@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning messy data and real-world problems into simple, meaningful solutions — and I’m also a big fan of Bengali storybooks and literature. 📚**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://github.com/biswasdisha">
+    <img src="https://img.shields.io/github/followers/biswasdisha?label=Followers&style=for-the-badge" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/biswasdisha?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge" alt="Repositories"/>
+  </a>
+  <a href="mailto:dishab749@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswasdisha&show_icons=true&locale=en&layout=compact" alt="biswasdisha" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswasdisha&show_icons=true&locale=en" alt="biswasdisha" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswasdisha&" alt="biswasdisha" /></p>
+I'm a **B.Tech Computer Science student specializing in Data Analytics** with an interest in turning data into clear, meaningful insights.
+
+I work mainly with **Python, SQL, Power BI, Excel, and data visualization**, while also exploring **image analysis, computer vision, machine learning, and IoT-based systems**.
+
+I enjoy working on projects where raw data or real-world problems can be transformed into practical, data-driven solutions.
+
+* 🎓 B.Tech CSE — **Data Analytics**
+* 📊 Interested in **Data Analytics & Data Visualization**
+* 🐍 Working with **Python, Pandas & NumPy**
+* 🗄️ Working with **SQL, MySQL & MongoDB**
+* 📈 Building **Power BI dashboards**
+* 🖼️ Currently working on **Image Analysis & Computer Vision**
+* 🤖 Exploring **Machine Learning & IoT**
+* 🔬 Interested in **research-oriented projects**
+* 📚 Love Bengali storybooks and literature
+
+---
+
+## 🔭 What I'm Currently Working On
+
+**Image Analysis & Computer Vision**
+
+Currently exploring image-based data processing, computer vision workflows and machine-learning approaches for real-world applications.
+
+Alongside this, I'm building projects around:
+
+* Data Analytics
+* SQL & Database Management
+* Power BI Dashboards
+* Machine Learning
+* Image Analysis
+* Real-time Data Processing
+* IoT & Automation
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</p>
+
+**Python • Pandas • NumPy • SQL • MySQL • Excel • Power BI • Matplotlib**
+
+### 🤖 Machine Learning & Image Analysis
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+</p>
+
+**Scikit-learn • TensorFlow • PyTorch • Image Processing • Computer Vision**
+
+### 💻 Programming & Development
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+</p>
+
+**C • Java • Python • HTML • CSS • JavaScript • Flask**
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+**MongoDB • MySQL • Git • GitHub • Linux • Arduino • Jupyter • VS Code**
+
+---
+
+## 🚀 Featured Projects
+
+### 🖼️ Image Analysis & Computer Vision
+
+Exploring image-processing and computer-vision workflows for extracting useful information from visual data.
+
+**Focus:** Image Processing • Computer Vision • Python • Deep Learning
+
+---
+
+### 📊 Startup Data Visualization Dashboard
+
+An interactive dashboard designed to transform startup-related data into meaningful KPIs, trends and visual insights.
+
+**Tools:** Power BI • Data Cleaning • Data Analysis • Data Visualization
+
+---
+
+### 🫁 Pneumonia Detection from Chest X-rays
+
+A deep-learning based image classification project for detecting pneumonia from chest X-ray images.
+
+**Models:** Custom CNN • ResNet50 • DenseNet121
+**Tools:** Python • TensorFlow/Keras • Image Processing • Flask
+
+---
+
+### 🌱 Automated Hydroponics & Smart Irrigation
+
+IoT-based automation projects focused on monitoring environmental conditions and automating agricultural systems.
+
+**Tools:** Arduino • Sensors • Embedded Systems • Automation • IoT
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=biswasdisha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="Disha's GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswasdisha&layout=compact&langs_count=8&hide_border=true" height="180" alt="Disha's Top Languages"/>
+
+</div>
+
+---
+
+## ⭐ Repositories & Stars
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biswasdisha&theme=github_dark" height="180" alt="GitHub repository statistics"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biswasdisha&theme=github_dark" height="180" alt="Repositories by language"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=biswasdisha&hide_border=true" alt="Disha's GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswasdisha&hide_border=true&area=true" alt="Disha's GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🗓️ Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswasdisha&theme=github_dark" alt="Disha's GitHub Contribution Overview"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=biswasdisha&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:dishab749@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-dishab749%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/biswasdisha">
+<img src="https://img.shields.io/badge/GitHub-biswasdisha-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+**Data Analytics • Python • SQL • Power BI • Data Visualization • Image Analysis • Machine Learning • IoT • Computer Vision**
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning messy data and real-world problems into simple, meaningful solutions — and I'm also a big fan of Bengali storybooks and literature. 📚
+
+---
+
+<div align="center">
+
+### 📊 Turning Data Into Insights • Building Projects • Learning Every Day
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
 
