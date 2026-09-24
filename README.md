@@ -4,7 +4,7 @@
 
 ### 🎓 B.Tech CSE (Data Analytics) | 📊 Data Analytics Enthusiast
 
-**Python • SQL • Power BI • Data Visualization • Machine Learning • Image Analysis**
+**Python • SQL • Power BI • Data Visualization • Image Analysis • Machine Learning**
 
 <p>
 <a href="https://github.com/biswasdisha">
@@ -18,9 +18,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a **B.Tech Computer Science student specializing in Data Analytics**, passionate about understanding data, finding meaningful patterns, and building practical solutions from real-world problems.
+I'm a **B.Tech Computer Science student specializing in Data Analytics**, interested in turning raw data into meaningful insights and practical solutions.
 
-My primary focus is **Data Analytics, Data Visualization, Python, SQL, and Business Intelligence**, while I also explore **Machine Learning, Image Analysis, Computer Vision, and IoT** through academic, research, and personal projects.
+My primary focus is **Data Analytics, Data Visualization, Python, SQL, and Business Intelligence**. Alongside analytics, I explore **Image Analysis, Computer Vision, Machine Learning, and IoT** through academic, research, and personal projects.
 
 I enjoy working across the complete data journey:
 
@@ -30,12 +30,12 @@ I enjoy working across the complete data journey:
 * 📊 Focused on **Data Analytics & Business Intelligence**
 * 🐍 Working with **Python, Pandas & NumPy**
 * 🗄️ Working with **SQL & Databases**
-* 📈 Building **Power BI dashboards**
+* 📈 Building **Power BI dashboards & data visualizations**
 * 🖼️ Currently exploring **Image Analysis & Computer Vision**
-* 🤖 Learning and applying **Machine Learning**
+* 🤖 Applying **Machine Learning** to practical problems
 * 🔬 Interested in **research-oriented projects**
 * 🌱 Exploring **IoT & Automation**
-* 📚 Love Bengali storybooks and literature
+* 📚 I enjoy Bengali storybooks and literature
 
 ---
 
@@ -43,9 +43,9 @@ I enjoy working across the complete data journey:
 
 ### 🖼️ Image Analysis & Computer Vision
 
-I'm currently working on **image analysis and computer vision projects**, exploring image preprocessing, analysis, feature extraction, and machine-learning/deep-learning approaches.
+Currently working on **image analysis and computer vision projects**, exploring image preprocessing, feature extraction, analysis, and machine-learning/deep-learning approaches.
 
-My goal is to understand the complete workflow:
+I'm focusing on understanding the complete workflow:
 
 **Dataset → Preprocessing → Analysis → Model → Evaluation → Application**
 
@@ -101,7 +101,7 @@ My goal is to understand the complete workflow:
 
 `C` `Java` `Python` `HTML` `CSS` `JavaScript` `Flask`
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases, Tools & Platforms
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
@@ -119,13 +119,13 @@ My goal is to understand the complete workflow:
 
 ### 📊 Startup Data Visualization Dashboard
 
-An interactive **Power BI dashboard** focused on transforming startup data into clear KPIs, trends, and business insights.
+An interactive **Power BI dashboard** designed to transform startup data into meaningful KPIs, trends, and business insights.
 
 **Key Focus**
 
 * Data cleaning and preprocessing
 * KPI development
-* Interactive visualizations
+* Interactive data visualization
 * Business-oriented insights
 
 `Power BI` `Excel` `Data Analysis` `Data Visualization`
@@ -134,7 +134,7 @@ An interactive **Power BI dashboard** focused on transforming startup data into 
 
 ### 🫁 Pneumonia Detection from Chest X-rays
 
-A deep-learning project focused on detecting pneumonia from chest X-ray images using multiple neural-network architectures.
+A deep-learning project for detecting pneumonia from chest X-ray images using multiple neural-network architectures.
 
 **Models Explored**
 
@@ -152,7 +152,7 @@ A deep-learning project focused on detecting pneumonia from chest X-ray images u
 
 ### 🌱 Smart Irrigation & Automated Hydroponics
 
-IoT-based projects focused on monitoring environmental conditions and automating agricultural processes using sensors and microcontrollers.
+IoT-based projects focused on environmental monitoring and automation for smart agriculture using sensors and microcontrollers.
 
 **Focus**
 
@@ -192,6 +192,20 @@ IoT-based projects focused on monitoring environmental conditions and automating
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswasdisha&theme=github_dark" alt="GitHub Contribution Overview"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswasdisha/biswasdisha/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswasdisha/biswasdisha/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/biswasdisha/biswasdisha/gh-pages/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
